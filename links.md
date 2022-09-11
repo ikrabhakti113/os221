@@ -1,7 +1,8 @@
 ---
 permalink: LINKS/
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By 
+  {{ site.author }}</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
@@ -13,7 +14,7 @@ permalink: LINKS/
 
 # LINKS
 
-1. [One]([https://en.wikipedia.org/wiki/1](https://wiki.osdev.org/Expanded_Main_Page))<br>
+1. [One](https://en.wikipedia.org/wiki/1](https://wiki.osdev.org/Expanded_Main_Page)<br>
 
 
 <br>
