@@ -27,6 +27,9 @@ Basic linux for newbies!!!
 5. [debian.org](https://www.debian.org/doc/manuals/debian-reference/ch01.en.html)<br>
 Basically the debian linux official tutorials and documentations
 
+6. [Gary Explains](https://www.youtube.com/watch?v=CpTfQ-q6MPU)<br>
+10 Linux Terminal Commands for Beginners, recommended by Mr. RMS, so far very useful for me as a beginner in linux.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
