@@ -1,12 +1,10 @@
 ---
 permalink: LINKS/
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By 
-  {{ site.author }}</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
-[TIPS]({{ site.baseurl }}/TIPS/) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
 [GITHUB]({{ site.githublink }})
 <br>
@@ -14,8 +12,21 @@ permalink: LINKS/
 
 # LINKS
 
-1. [One](https://en.wikipedia.org/wiki/1](https://wiki.osdev.org/Expanded_Main_Page)<br>
+1. [OS Course Website](https://os.vlsm.org/)<br>
+The website used for Operating System course. Especially used for weekly assignments.
 
+2. [GeeksForGeeks](https://www.geeksforgeeks.org/)<br>
+Website created for Computer Science geeks. Usually holds valuable information and very helpful
+regarding Computer Science.
+
+3. [OS Scele Course Page](https://scele.cs.ui.ac.id/course/view.php?id=3398)<br>
+The Scele page dedicated to the Operating System course.
+
+4. [Basic Linux Commands](https://linoxide.com/linux-command/essential-linux-basic-commands/)<br>
+Website that shows you commonly used Linux commands that will help you.
+
+5. [Linux in 100 Seconds (by Fireship)](https://www.youtube.com/watch?v=rrB13utjYV4)<br>
+Basic linux for newbies!!!
 
 <br>
 <hr>
