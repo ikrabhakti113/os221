@@ -19,7 +19,7 @@ OS Course and weekly assignments.
 Website for CS Geeks!!!
 
 3. [Basic Linux Commands](https://linoxide.com/linux-command/essential-linux-basic-commands/)<br>
-Your basic linux commands tutorial!!!
+Basic linux commands youll need to know
 
 4. [Linux in 100 Seconds (by Fireship)](https://www.youtube.com/watch?v=rrB13utjYV4)<br>
 Basic linux for newbies!!!
