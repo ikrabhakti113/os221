@@ -1,19 +1,15 @@
 ---
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By ikrabhakti113</span>
-<br><br>
-[HOME]({{ site.baseurl }}/) ---
-[LINKS]({{ site.baseurl }}/LINKS/) ---
-[TIPS]({{ site.baseurl }}/TIPS/) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[TARBALL](SandBox/cbkadal.tar.xz) ---
-[GITHUB]({{ site.githublink }})
+### Welcome to hugo-setiawan's os222 repository!
+
+> "This is the way!" -C. BinKadal, 2022  
+
+- [HOME]({{site.baseurl}})
+- [LINKS]({{site.baseurl}}/LINKS/)
+- [LOG]({{site.baseurl}}/TXT/mylog.txt)
+
 <br>
 <hr>
-This is OS222 and I am ikrabhakti113.
-<br><br>
-This is the way!
+[**HOME (You are here!)**]({{site.baseurl}}/) --- [LINKS]({{site.baseurl}}/LINKS/) --- [LOG]({{site.baseurl}}/TXT/mylog.txt)
 <br>
 <hr>
-<hr>
-<br>
