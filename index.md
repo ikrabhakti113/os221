@@ -1,15 +1,18 @@
 ---
 ---
-### Welcome to hugo-setiawan's os222 repository!
-
-> "This is the way!" -C. BinKadal, 2022  
-
-- [HOME]({{site.baseurl}})
-- [LINKS]({{site.baseurl}}/LINKS/)
-- [LOG]({{site.baseurl}}/TXT/mylog.txt)
-
+<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<br><br>
+[HOME]({{ site.baseurl }}/) ---
+[LINKS]({{ site.baseurl }}/LINKS/) ---
+[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
+[GITHUB]({{ site.githublink }})
 <br>
 <hr>
-[**HOME (You are here!)**]({{site.baseurl}}/) --- [LINKS]({{site.baseurl}}/LINKS/) --- [LOG]({{site.baseurl}}/TXT/mylog.txt)
+This is {{ site.title }} and I am {{ site.author }}.
+<br><br>
+This is the way!
 <br>
 <hr>
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+<hr>
+<br>
