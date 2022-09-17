@@ -1,7 +1,7 @@
 ---
 permalink: LINKS/
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<span style="color:green; font-weight:bold; font-size:larger;">Created By {{ site.author }}</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
@@ -29,6 +29,9 @@ Basically the debian linux official tutorials and documentations
 
 6. [Gary Explains](https://www.youtube.com/watch?v=CpTfQ-q6MPU)<br>
 10 Linux Terminal Commands for Beginners, recommended by Mr. RMS, so far very useful for me as a beginner in linux.
+
+7. [The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners](https://www.youtube.com/watch?v=ZtqBQ68cfJc)<br>
+As the title says, really useful for beginners, but its 5 hours long, happy watching :))))
 
 <br>
 <hr>
