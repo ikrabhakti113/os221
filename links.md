@@ -13,20 +13,19 @@ permalink: LINKS/
 # LINKS
 
 1. [OS Course Website](https://os.vlsm.org/)<br>
-The website used for Operating System course. Especially used for weekly assignments.
+OS Course and weekly assignments.
 
 2. [GeeksForGeeks](https://www.geeksforgeeks.org/)<br>
-Website created for Computer Science geeks. Usually holds valuable information and very helpful
-regarding Computer Science.
+Website for CS Geeks!!!
 
-3. [OS Scele Course Page](https://scele.cs.ui.ac.id/course/view.php?id=3398)<br>
-The Scele page dedicated to the Operating System course.
+3. [Basic Linux Commands](https://linoxide.com/linux-command/essential-linux-basic-commands/)<br>
+Your basic linux commands tutorial!!!
 
-4. [Basic Linux Commands](https://linoxide.com/linux-command/essential-linux-basic-commands/)<br>
-Website that shows you commonly used Linux commands that will help you.
-
-5. [Linux in 100 Seconds (by Fireship)](https://www.youtube.com/watch?v=rrB13utjYV4)<br>
+4. [Linux in 100 Seconds (by Fireship)](https://www.youtube.com/watch?v=rrB13utjYV4)<br>
 Basic linux for newbies!!!
+
+5. [debian.org](https://www.debian.org/doc/manuals/debian-reference/ch01.en.html)<br>
+Basically the debian linux official tutorials and documentations
 
 <br>
 <hr>
